@@ -1,0 +1,7 @@
+{
+  "name": "CONECTA+",
+  "description": "A dark-themed social networking platform clone inspired by Threads, focusing on text-based conversations and community connection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
